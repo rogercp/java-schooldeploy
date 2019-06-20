@@ -1,8 +1,8 @@
 package com.lambdaschool.schooldeploy.services;
 
-import com.lambdaschool.school.model.Course;
-import com.lambdaschool.school.repository.CourseRepository;
-import com.lambdaschool.school.view.CountStudentsInCourses;
+import com.lambdaschool.schooldeploy.model.Course;
+import com.lambdaschool.schooldeploy.repository.CourseRepository;
+import com.lambdaschool.schooldeploy.view.CountStudentsInCourses;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

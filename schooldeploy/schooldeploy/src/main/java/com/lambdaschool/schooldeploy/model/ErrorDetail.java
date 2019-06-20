@@ -1,7 +1,7 @@
 package com.lambdaschool.schooldeploy.model;
 
 
-import com.lambdaschool.starthere.exceptions.ValidationError;
+import com.lambdaschool.schooldeploy.exceptions.ValidationError;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

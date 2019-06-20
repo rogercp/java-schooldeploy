@@ -1,7 +1,7 @@
 package com.lambdaschool.schooldeploy.services;
 
-import com.lambdaschool.school.model.Student;
-import com.lambdaschool.school.repository.StudentRepository;
+import com.lambdaschool.schooldeploy.model.Student;
+import com.lambdaschool.schooldeploy.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
